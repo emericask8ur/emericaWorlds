@@ -1,0 +1,65 @@
+name: emericaWorlds
+version: 0.1
+main: com.emericask8ur.emericaWorlds.Main
+commands:
+  WorldGen:
+   description: Uses
+   usage: /WorldGen
+  GoTo:
+   description: Uses
+   usage: /GoTo
+  Worlds:
+   description: Uses
+   usage: /Worlds
+  Teleport:
+   description: Uses
+   usage: /Teleport
+  Spawn:
+   description: Uses
+   usage: /Spawn
+  SetSpawn:
+   description: Uses
+   usage: /SetSpawn
+  Survival:
+   description: Uses
+   usage: /Survival
+  Creative:
+   description: Uses
+   usage: /Creative
+  PrefixWorld:
+   description: Uses
+   usage: /PrefixWorld
+  Set:
+   description: Uses
+   usage: /Set
+  emericaWorlds:
+   description: Uses
+   usage: /emericaWorlds
+permissions:
+  emerica.set:
+   description: Uses this plugin
+   default: op
+  emerica.mode:
+   description: Uses this plugin
+   default: op
+  emerica.goto:
+   description: Uses this plugin
+   default: op
+  emerica.gen:
+   description: Uses this plugin
+   default: op
+  emerica.list:
+   description: Uses this plugin
+   default: op
+  emerica.setspawn:
+   description: Uses this plugin
+   default: op
+  emerica.spawn:
+   description: Uses this plugin
+   default: op
+  emerica.teleport:
+   description: Uses this plugin
+   default: op
+  emerica.help:
+   description: Uses this plugin
+   default: op
